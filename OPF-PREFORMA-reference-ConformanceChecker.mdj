@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFElm5XMFNoGY0=",
-	"name": "OPF Reference PREFORMA Shell",
+	"name": "veraPDF Conformance Checker Models",
 	"ownedElements": [
 		{
 			"_type": "UMLProfile",
@@ -17650,7 +17650,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFElm5XMFNoGY0="
 			},
-			"name": "PREFORMA Domain Model",
+			"name": "veraPDF Abstract Domain Model",
 			"ownedElements": [
 				{
 					"_type": "UMLClassDiagram",
@@ -17747,7 +17747,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -18092,7 +18092,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -18331,7 +18331,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -18570,7 +18570,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -19970,7 +19970,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -20664,7 +20664,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -21009,7 +21009,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -21741,7 +21741,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -22897,7 +22897,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -23216,7 +23216,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -23667,7 +23667,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "(from PREFORMA Domain Model)",
+											"text": "(from Abstract Domain Model)",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
